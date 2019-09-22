@@ -1,6 +1,6 @@
-#Hello World Express Starter
+# Hello World Express Starter
 
-This is a simple Express Starter Template
+This is a simple *Express Starter* Template
 
-It has an Express App with Routers and Controllers
+It has an Express __App__ with __Routers__ and __Controllers__
 
